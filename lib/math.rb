@@ -26,6 +26,6 @@ end
 
 def square_root(num) do
  it "returns the square root of a number" do
-   expect(square_root(81)).to eq (9)
+   expect(square_root(81)).to eq(9)
   end
 end
